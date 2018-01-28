@@ -29,6 +29,9 @@ Put the speaker volume lower<br>
 Turn up the mic volume<br>
 Put the mic volume lower<br>
 
+
+Don't forget to clic on 'Train the brain' after reboot.
+
 ####
 
 What is Gladys project
@@ -41,4 +44,5 @@ What is Gladys project
 TO DO
 -------------
 - Get volume level for speaker and microphone<br>
-- Tune percent volume
+- Tune percent volume<br>
+- Add box to Gladys to control volume
