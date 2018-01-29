@@ -15,7 +15,7 @@ Getting started
 #### Sentences added in the brain :
 French sentences examples:<br>
 Monte le volume du haut-parleur<br>
-Mets le volume du haut-parleur moins fort<br>``
+Mets le volume du haut-parleur moins fort<br>
 <br>
 Monte la sensibilité du micro<br>
 Mets la sensibilité du micro moins fort<br>
