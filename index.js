@@ -1,6 +1,6 @@
 var install = require('./lib/install.js');
 var uninstall = require('./lib/uninstall.js');
-var exec = require('./lib/exec.js');
+var command = require('./lib/alsamixer.command.js');
 
 module.exports = function(sails) {
 
@@ -11,6 +11,6 @@ module.exports = function(sails) {
 	return {
 		install: install,
 		uninstall: uninstall,
-		exec: exec
+		command: command
 	};
 };
