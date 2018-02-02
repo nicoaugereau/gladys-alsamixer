@@ -14,20 +14,20 @@ Getting started
 
 #### Sentences added in the brain :
 French sentences examples:<br>
-Monte le volume du haut-parleur<br>
-Mets le volume du haut-parleur moins fort<br>
+Monte le volume de ton haut-parleur<br>
+Mets le volume de ton haut-parleur moins fort<br>
 <br>
-Monte la sensibilité du micro<br>
-Mets la sensibilité du micro moins fort<br>
+Monte la sensibilité de ton micro<br>
+Mets la sensibilité de ton micro moins fort<br>
 
 
 
 English sentences:<br>
-Turn up the speaker volume<br>
-Put the speaker volume lower<br>
+Turn up your speaker volume<br>
+Put your speaker volume lower<br>
 <br>
-Turn up the mic volume<br>
-Put the mic volume lower<br>
+Turn up your mic volume<br>
+Put the your volume lower<br>
 
 
 Don't forget to clic on 'Train the brain' after reboot.
