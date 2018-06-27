@@ -70,5 +70,6 @@ What is Gladys project
 
 TO DO
 -------------
+- To improve: sentences
 - Get volume level for speaker and microphone<br>
 - Tune percent volume<br>
