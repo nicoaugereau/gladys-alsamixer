@@ -2,7 +2,7 @@
 All notable changes to this project will be documented in this file.
 
 #### [v0.0.2]
-> 28 February 2018
+> 28 June 2018
 - Changed sentences
 - Added a Mute sentence for the microphone
 - Adding answers
