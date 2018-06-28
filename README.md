@@ -17,7 +17,6 @@ The install add 2 parameters :<br>
 GLADYS_SPEAKER, set to value PCM
 GLADYS_MICROPHONE set to value Headset
 ```
-<br>
 Connect to your raspberry, and type alsamixer command to find your values.<br>
 Replace the control values if necessary in the Gladys parameters.<br>
 
