@@ -28,7 +28,7 @@ Monte/descend le niveau de ton haut-parleur<br>
 Mets le volume de ton haut-parleur plus fort<br>
 Augmente/diminue le volume de ton haut-parleur<br>
 Mets ton haut-parleur plus/moins fort<br>
-Mets le volume de ton haut-parleur à %PERCENT% pourcent<br>
+Mets le volume de ton haut-parleur à X %<br>
 Quel est le niveau/niveau du haut-parleur ?<br>
 <br>
 Monte/baisse la sensibilité du micro<br>
@@ -36,7 +36,7 @@ Monte/baisse la sensibilité de ton micro<br>
 Mets la sensibilité de ton micro plus forte<br>
 Augmente/diminue la sensibilité de ton micro<br>
 Mets la sensibilité du micro moins forte<br>
-Mets la sensibilité de ton micro à %PERCENT% pourcent<br>
+Mets la sensibilité de ton micro à X %<br>
 Quel est le niveau/niveau du micro ?<br>
 Coupe ton micro<br>
 
@@ -46,13 +46,13 @@ Turn up/down the speaker volume<br>
 Put the speaker volume louder/lower<br>
 Put your speaker volume louder/lower<br>
 Turn up/down your speaker volume<br>
-Put %PERCENT% percent your speaker volume<br>
+Put X % your speaker volume<br>
 <br>
 Turn up the mic sensitivity<br>
 Put the mic sensitivity louder/lower<br>
 Put your mic sensitivity louder/lower<br>
 Turn up/down your mic sensitivity<br>
-Put %PERCENT% percent your mic sensitivity<br>
+Put X % your mic sensitivity<br>
 What is the volume of the speaker?<br>
 What is the level of the speaker?<br>
 What is the volume of the mic?<br>
