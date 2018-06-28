@@ -27,7 +27,7 @@ Monte/réduis le volume de ton haut-parleur<br>
 Monte/descend le niveau de ton haut-parleur<br>
 Mets le volume de ton haut-parleur plus fort<br>
 Augmente/diminue le volume de ton haut-parleur<br>
-Mets le volume du haut-parleur moins fort<br>
+Mets ton haut-parleur plus/moins fort<br>
 Mets le volume de ton haut-parleur à %PERCENT% pourcent<br>
 Quel est le niveau/niveau du haut-parleur ?<br>
 <br>
