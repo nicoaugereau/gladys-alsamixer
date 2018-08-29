@@ -10,6 +10,14 @@ Prerequisites
 
 - [Gladys](http://gladysproject.com) 
 
+Manual install
+-------------
+
+name : gladys-alsamixer<br>
+version : 0.0.2<br>
+git : https://github.com/nicoaugereau/gladys-alsamixer.git<br>
+slug : alsamixer<br>
+
 Getting started
 -------------
 The install add 2 parameters :<br>
