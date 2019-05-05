@@ -8,7 +8,7 @@ It creates a device, so you can control volume level too, mute microphone.
 Prerequisites
 -------------
 
-- [Gladys](http://gladysproject.com) 
+- [Gladys](http://gladysassistant.com) 
 
 Manual install
 -------------
@@ -74,8 +74,8 @@ Don't forget to clic on 'Train the brain' after reboot.
 What is Gladys project
 -------------
 
-**Website :** [https://gladysproject.com](http://gladysproject.com) <br>
-**Community :** [https://community.gladysproject.com/](https://community.gladysproject.com/)
+**Website :** [https://gladysassistant.com](http://gladysassistant.com) <br>
+**Community :** [https://community.gladysassistant.com/](https://community.gladysassistant.com/)
 
 
 TO DO
